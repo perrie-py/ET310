@@ -18,3 +18,6 @@ An empirical study investigating whether ChatGPT reliably detects prepositional 
 
 ## Tools
 'R' 'chi-squared analysis' 'ChatGPT' 'corpus elicitation' 'text processing'
+
+## Status
+Work in progress - code will be added upon project completion. 
