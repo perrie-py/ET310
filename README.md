@@ -20,4 +20,4 @@ An empirical study investigating whether ChatGPT reliably detects prepositional 
 'R' 'chi-squared analysis' 'ChatGPT' 'corpus elicitation' 'text processing'
 
 ## Status
-Work in progress - code will be added upon project completion. 
+Completed and submitted as part of an assignment for the University of Warwick. 
